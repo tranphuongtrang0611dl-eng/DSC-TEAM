@@ -22,7 +22,7 @@ export const SITE_CONFIG = {
     'https://github.com/tranphuongtrang0611dl-eng/git-github-study-jam-team',
   dscLogoPath: './images/dsc-logo.png',
   // Set teamPhotoPath to './images/team-photo.jpg' once the real group photo is added.
-  teamPhotoPath: '' as string,
+  teamPhotoPath: './images/team-photo.jpg' as string,
   teamPhotoAlt: 'fastlearning team group photograph — HCM-UTE DSC 2026',
 } as const;
 
