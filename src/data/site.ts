@@ -19,7 +19,7 @@ export const SITE_CONFIG = {
   teamStats: '5 members · 1 team',
   gitCommitNote: 'git commit -m "grow together"',
   githubRepoUrl:
-    'https://github.com/tranphuongtrang0611dl-eng/git-github-study-jam-team',
+    'https://github.com/tranphuongtrang0611dl-eng/DSC-TEAM.git',
   dscLogoPath: './images/dsc-logo.png',
   // Set teamPhotoPath to './images/team-photo.jpg' once the real group photo is added.
   teamPhotoPath: '' as string,
